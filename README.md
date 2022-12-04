@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @jay-chatpalliwar
+- 👀 I’m interested in ...Competitive Programming,Logic Building,Web Development,Android Development and much more..
+- 🌱 I’m currently persuing ...Btech Degree in CSE from Walchand College of Engineering,Sangli(Currently in 2nd Year)
+- 💞️ I’m looking to collaborate on ... Major and Mini Projects from DBMS,MERN Stack,Android Development
+- 📫 How to reach me ...Here is my LinkedIn profile-[Here](https://www.linkedin.com/in/jay-chatpalliwar-a05970233/)
+   
+<!---
+jay-chatpalliwar/jay-chatpalliwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
