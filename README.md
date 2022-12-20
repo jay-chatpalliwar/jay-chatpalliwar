@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jay-chatpalliwar
+- 👋 Hi, I’m @jay-chatpalliwar(Jay Sandeep Chatpalliwar)...I'm from Nagpur City,Maharastra,India
 - 👀 I’m interested in ...Competitive Programming,Logic Building,Web Development,Android Development and much more..
 - 👍 I'm a ...3🌟coder in CodeChef(Rating 1610),a Leetcoder(190+ Questions solved rating 1480) and Problem solver at platforms @Coding Ninjas,@GFG,etc.
 - 🌱 I’m currently persuing ...Btech Degree in CSE from Walchand College of Engineering,Sangli(Currently in 2nd Year)
